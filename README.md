@@ -1,6 +1,4 @@
 # infinityInvaders
-<h1> Infinity Invaders </h1>
-
 ![Screenshot](/img/screenshot.png)
 
 
@@ -35,7 +33,7 @@ OpenGameArt (opengameart.org)
 - Laser Fire by dklon
 - Blue Space by FoxSynergy
 
-<h2>Created by Denis Moura</h2><br>
+<h4>Created by Denis Moura</h4><br>
 github.com/mouradap
 
 Following Tutorial by freeCodeCamp.org on YouTube (youtube.com/watch?v=FfWpgLFMI7w)
