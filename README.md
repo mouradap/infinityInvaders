@@ -1,29 +1,29 @@
 # infinityInvaders
-Infinity Invaders
+<h1> Infinity Invaders </h1>
 
 ![Screenshot](/img/screenshot.png)
 
 
-This game is a time killer, presented as a looping version of the classic Space Invaders at medium difficulty, with relaxing background music.
+This game is a time killer, presented as a looping version of the classic Space Invaders at medium difficulty, with relaxing background music. <br>
 Enjoy the ride!
 
-Requirements
+<h2>Requirements<h2>
 
 - Python 3
 - pygame Library
 
-How to Play
+<h2>How to Play</h2>
 
 Navigate through the game folder and use Python to start the game with command:
 - python main.py
 
-Controls
+<h2>Controls</h2>
 
-Space bar: shoots
+Space bar: shoots<br>
 Left and Right arrow keys: Spaceship movement
 
 
-Credits
+<h2>Credits</h2>
 
 Image credits:
 Freepik (freepik.com)
@@ -35,7 +35,7 @@ OpenGameArt (opengameart.org)
 - Laser Fire by dklon
 - Blue Space by FoxSynergy
 
-Created by Denis Moura
+<h2>Created by Denis Moura</h2><br>
 github.com/mouradap
 
 Following Tutorial by freeCodeCamp.org on YouTube (youtube.com/watch?v=FfWpgLFMI7w)
